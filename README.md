@@ -1,4 +1,4 @@
-# How-to-build-a-Screensaver-XBian-with-Raspberry-Pi
+# How-to-build-a-Screensaver-in-XBian-with-Raspberry-Pi
 Digitaler Bilderrahmen mit XBian und Kodi (Tutorial in English: )
 
 Vorbereitung:
