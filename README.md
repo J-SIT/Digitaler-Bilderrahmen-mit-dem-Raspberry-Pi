@@ -1,6 +1,6 @@
 # How-to-build-a-Screensaver-in-XBian-with-Raspberry-Pi
 Digitaler Bilderrahmen mit XBian und Kodi (Tutorial in English: https://github.com/PPrzemko/digital-photo-frame)
-
+_________________________________________________________________________________________________________________
 Vorbereitung:
 
 Sie benötigen:
@@ -34,5 +34,7 @@ Nachdem Sie nun alle Packete Installiert haben, starten Sie den Raspberry Pi neu
 Nach dem Neustart gehen Sie wieder in die Einstellungen und wählen diesmal "Interface" aus. Hier gibt es den Eintrag "Screensaver" mit dem Unterpunkt "Screensaver mode". Hier tauchen nun die Installierten Add-on's auf. Wählen Sie nun "Picture Slideshow Screensaver" aus. Alle weiteren Einstellungen finden Sie in der "Screensaver" spalte bei "Interface". Beachten Sie das unten links bei dem Einstellungsrad "Expert" steht.
 
 Wenn Sie ihre Bilder nicht auf dem Raspberry Pi sondern in einer Cloud oder einem NAS/Netzwerkfreigabe speichern, können Sie diesen Pfad über "Screensaver" - "Settings" - "Image Folder" - "Folder" einlesen. Wir empfehlen das stabilere SMB Zugriffsverfahren. Beachten Sie das gegebenfalls ein neuer Benutzer und eine entsprechende Freigabe auf die Bilder erzeugt werden müssen.
+
+Info: Der Bildschirmschoner braucht mindestens 1. Minute bis er startet.
 
 Falls Sie nach dem Start des Raspberry Pi's eine Wetteranzeige verwenden möchten können Sie die "Yahoo Wetter" Pakete ebenfalls installieren.
