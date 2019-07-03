@@ -1,17 +1,13 @@
-# How-to-build-a-Screensaver-in-XBian-with-Raspberry-Pi
+# How-to-build-a-Screensaver-in-XBian-with-Raspberry-Pi-and-QNAP
 _________________________________________________________________________________________________________________
 Digitaler Bilderrahmen mit XBian und Kodi (Tutorial in English: https://github.com/PPrzemko/digital-photo-frame)
 _________________________________________________________________________________________________________________
 Vorbereitung:
 
 
-1x Raspberry Pi 2 oder 3
+1x Raspberry Pi 3 mit XBian (Kodi) & Screensaver Add-on (siehe master)
 
-1x Windows (ab 7)
-
-1x SD-Karte mindestens 8 Gigabyte (beachten Sie: Zur Sicherheit vorher Kontrollieren das nur 1. Partition vorhanden ist)
-
-1x SD Karten Slot. (Flashen geht mit oder ohne SD-Karten Adapter)
+1x QNAP
 
 ____________________________________________________________________________________________________________________
 
