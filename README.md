@@ -29,3 +29,7 @@ Wählen Sie den Eintrag "Install from zip file" aus und bestätigen Sie ihren US
 Nachdem Sie nun alle Packete Installiert haben, starten Sie den Raspberry Pi neu. Drücken Sie die Taste "Esc" bis Sie wieder im Hauptmenü sind und klicken Sie oben Links auf das Power Symbol.
 
 Nach dem Neustart gehen Sie wieder in die Einstellungen und wählen diesmal "Interface" aus. Hier gibt es den Eintrag "Screensaver" mit dem Unterpunkt "Screensaver mode". Hier tauchen nun die Installierten Add-on's auf. Wählen Sie nun "Picture Slideshow Screensaver" aus. Alle weiteren Einstellungen finden Sie in der "Screensaver" spalte bei "Interface". Beachten Sie das unten links bei dem Einstellungsrad "Expert" steht.
+
+Wenn Sie ihre Bilder nicht auf dem Raspberry Pi sondern in einer Cloud oder einem NAS/SAN/DAS speichern, können Sie diesen Pfad über "Screensaver" - "Settings" - "Folder" einlesen. Wir empfehlen das stabilere SMB Zugriffsverfahren. Beachten Sie das gegebenfalls ein neuer Benutzer und eine entsprechende Freigabe auf die Bilder erzeugt werden müssen.
+
+Falls Sie nach dem Start des Raspberry Pi's eine Wetteranzeige verwenden möchten können Sie die "Yahoo Wetter" Pakete ebenfalls installieren.
