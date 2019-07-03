@@ -35,7 +35,7 @@ Nachdem Sie nun alle Packete Installiert haben, starten Sie den Raspberry Pi neu
 _______________________________________________________________________________________________________________________
 Nach dem Neustart gehen Sie wieder in die Einstellungen und wählen diesmal "Interface" aus. Hier gibt es den Eintrag "Screensaver" mit dem Unterpunkt "Screensaver mode". Hier tauchen nun die Installierten Add-on's auf. Wählen Sie nun "Picture Slideshow Screensaver" aus. Alle weiteren Einstellungen finden Sie in der "Screensaver" spalte bei "Interface". Beachten Sie das unten links bei dem Einstellungsrad "Expert" steht.
 
-Wenn Sie ihre Bilder nicht auf dem Raspberry Pi sondern in einer Cloud oder einem NAS/Netzwerkfreigabe speichern, können Sie diesen Pfad über "Screensaver" - "Settings" - "Image Folder" - "Folder" einlesen. Wir empfehlen das stabilere SMB Zugriffsverfahren. Beachten Sie das gegebenfalls ein neuer Benutzer und eine entsprechende Freigabe auf die Bilder erzeugt werden müssen.
+Wenn Sie ihre Bilder nicht auf dem Raspberry Pi sondern in einer Cloud oder einem NAS/Netzwerkfreigabe speichern, können Sie diesen Pfad über "Screensaver" - "Settings" - "Image Folder" - "Folder" einlesen. Wir empfehlen das stabilere SMB Zugriffsverfahren. Beachten Sie das gegebenfalls ein neuer Benutzer und eine entsprechende Freigabe auf die Bilder erzeugt werden müssen. (Siehe Branche QNAP)
 ______________________________________________________________________________________________________________________________
 Info: Der Bildschirmschoner braucht mindestens 1. Minute bis er startet.
 
