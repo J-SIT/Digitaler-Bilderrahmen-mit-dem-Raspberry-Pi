@@ -1,6 +1,6 @@
 # How-to-build-a-Screensaver-in-XBian-with-Raspberry-Pi-and-QNAP
 _________________________________________________________________________________________________________________
-Digitaler Bilderrahmen mit XBian und Kodi (Tutorial in English: https://github.com/PPrzemko/digital-photo-frame)
+Digitaler Bilderrahmen mit XBian und Kodi (Tutorial in English: https://github.com/PPrzemko/digital-photo-frame/tree/NAS-/-QNAP)
 _________________________________________________________________________________________________________________
 Vorbereitung:
 
