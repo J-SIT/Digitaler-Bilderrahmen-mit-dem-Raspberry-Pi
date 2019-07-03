@@ -11,3 +11,6 @@ Vorbereitung:
 
 ____________________________________________________________________________________________________________________
 
+Gehen Sie auf die Webadresse ihres QNAP's und melden Sie sich an. Legen Sie an einem Ort ihrer Wahl einen neuen Ordner an, auf dessen später der Raspberry Pi zugreifen soll. Wir empfehlen den "Public" Ordner.
+
+
