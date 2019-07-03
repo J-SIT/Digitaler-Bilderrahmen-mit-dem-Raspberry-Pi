@@ -40,3 +40,5 @@ ________________________________________________________________________________
 Info: Der Bildschirmschoner braucht mindestens 1. Minute bis er startet.
 
 Falls Sie nach dem Start des Raspberry Pi's eine Wetteranzeige verwenden möchten können Sie die "Yahoo Wetter" Pakete ebenfalls installieren.
+
+©globleTech
