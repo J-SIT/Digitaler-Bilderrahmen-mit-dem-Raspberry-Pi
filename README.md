@@ -3,7 +3,6 @@ Digitaler Bilderrahmen mit XBian und Kodi (Tutorial in English: https://github.c
 _________________________________________________________________________________________________________________
 Vorbereitung:
 
-Sie benötigen:
 
 1x Raspberry Pi 2 oder 3
 
@@ -13,7 +12,7 @@ Sie benötigen:
 
 1x SD Karten Slot. (Flashen geht mit oder ohne SD-Karten Adapter)
 
-
+____________________________________________________________________________________________________________________
 
 Laden Sie sich den XBian Installer herunter und starten Sie diesen. Im Hauptmenü können Sie ihr Raspberry Pi Modell auswählen.
 Wir empfehlen mindestens einen Rasperry Pi Modell 3. Nach einem Klick auf "OK" können Sie nun in Schritt 2. eine Version von XBian wählen. Im zweifel die voreinstellung beibehalten. In Schritt 3 wählen Sie ihre SD-Karte aus.
